@@ -1,0 +1,35 @@
+AI-Smart-Auction-System
+AI-Smart-Auction-System/
+│
+├── frontend/
+├── backend/
+├── dataset/
+├── README.md
+frontend/
+backend/app.py
+dataset/auction_data.csv
+git init
+AI-Smart-Auction-System
+https://github.com/your-username/AI-Smart-Auction-System.git
+git remote add origin https://github.com/your-username/AI-Smart-Auction-System.git
+git add .
+git commit -m "Initial AI Smart Auction System project"
+git branch -M main
+git push -u origin main
+# AI Smart Auction System
+
+## Features
+- ML-based price prediction
+- Smart bidding suggestion
+- Auction dashboard
+
+## Tech Stack
+- React
+- Flask
+- Python ML (Scikit-learn)
+
+## How it works
+Explains prediction logic
+
+## Future improvements
+AI chatbot, real-time bidding
